@@ -1,30 +1,23 @@
-# This is a large heading
+# Lianlin Chi
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I moved from China, lived in Cincinnati for 12 years, then moved to central Florida
 
-- This is
-- an unordered
-- list
+### Reading
+Three of my favorites are:
+-*Trading* by Bob Loukas
+-*Financial News* Wall Street Journal
+-*Programming* Python Shell Script etc
 
-1. This is
-2. an ordered
-3. list
+### Food
 
-Here is `some code` in the middle of a sentence.
+Chinese food is really my favorite, for example:
+1. Chuan Cai
+2. Seafood
+3. Steak
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
+The best way to reach me is [Twitter](https://twitter.com/LIANLINCHI).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
