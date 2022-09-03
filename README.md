@@ -1,24 +1,31 @@
 # Lianlin Chi
 
-### Geography
+### Education
 
-I moved from China, lived in Cincinnati for 12 years, then moved to central Florida
+MS in Business Analytics from University of Cincinnati
+Certificate in Applied Statistics from Penn State University
 
-### Reading
-Three of my favorites are:
--*Trading* by Bob Loukas
--*Financial News* Wall Street Journal
--*Programming* Python Shell Script etc
+### Skills
 
-### Food
+Data Analysis, Data Management
 
-Chinese food is really my favorite, for example:
-1. Chuan Cai
-2. Seafood
-3. Steak
+### Programming Languanges
+
+- Python
+- Shell
+- C
+- Java
+- JavaScript
+- R
+- SAS
+
+### Certificate
+
+IBM Data Engineering
 
 ### Contact
 
-The best way to reach me is [Twitter](https://twitter.com/LIANLINCHI).
+The best way to contact me is *email* at **chi.lianlin87@gmail.com**
+You can also reach me at **513-708-2219**
 
 
